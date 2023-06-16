@@ -1,6 +1,6 @@
 # ETL_Project
 
-Introduction
+# Introduction
 This project was carried out in January 2023. It was a group project for the Master's program at Assembler Institute of Technology, and the group members were:
 - Lien Chin
 - Helen Navarro
